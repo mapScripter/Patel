@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Patel.kmz</name>
+	<open>1</open>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff626d7b</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff807341</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff807341</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff626d7b</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Patel</name>
+		<Placemark>
+			<name>R1</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65342224433272,37.89173823529796,37 -80.65362496187993,37.89173790681355,37 -80.65362434400015,37.89161519399508,37 -80.65342111070433,37.89161509282329,37 -80.65342224433272,37.89173823529796,37 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R2</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65342345061684,37.89161057441913,43 -80.65362764357955,37.89161037644672,43 -80.65367548293209,37.89157593733037,43 -80.6536761593042,37.89154282937782,43 -80.6534232158462,37.89154308888062,43 -80.65342345061684,37.89161057441913,43 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R3</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65342336495013,37.89153854375273,47 -80.65358063197161,37.89153891871688,47 -80.65358153120145,37.89152455933361,47 -80.65348266678882,37.89143595357604,47 -80.65342343337703,37.89143537609871,47 -80.65342336495013,37.89153854375273,47 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R4</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65341472253668,37.89139250098192,49.00000000000001 -80.6534771594249,37.89139296794314,49.00000000000001 -80.65347817301134,37.89136189237988,49.00000000000001 -80.65353216339192,37.89131908301345,49.00000000000001 -80.65357219915067,37.89131837156678,49.00000000000001 -80.65357301082173,37.89127743888329,49.00000000000001 -80.65341417300158,37.89127827269353,49.00000000000001 -80.65341472253668,37.89139250098192,49.00000000000001 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R5</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65341455226496,37.89127338240085,31 -80.65354678176826,37.89127253114924,31 -80.65355207612748,37.89121834606846,31 -80.65341391460277,37.89121933301461,31 -80.65341455226496,37.89127338240085,31 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R6</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65341136289837,37.89121469435282,39 -80.65357270498924,37.89121521119475,39 -80.65357279333196,37.89113381751115,39 -80.65341076647947,37.89113389583395,39 -80.65341136289837,37.89121469435282,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R7</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65341145651709,37.89112922743256,41 -80.65359624887246,37.89112936201343,41 -80.65359348348183,37.89106401838803,41 -80.65341197950886,37.89106384868001,41 -80.65341145651709,37.89112922743256,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R8</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65341713305044,37.8910605523808,46 -80.65362688863743,37.89106007735941,46 -80.65362655948169,37.89097446298609,46 -80.65341679411368,37.89097392124373,46 -80.65341713305044,37.8910605523808,46 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R9</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65342563783263,37.89097025921444,34 -80.65363956220168,37.89096956790172,34 -80.65363657229663,37.8908606650573,34 -80.65342566094793,37.89086074866112,34 -80.65342563783263,37.89097025921444,34 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R10</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65342710117,37.89085476411439,38 -80.65363991478094,37.89085531688169,38 -80.65363923281832,37.89083391066841,38 -80.65357553760332,37.89076603752266,38 -80.65357645054722,37.89066208695411,38 -80.65342613769567,37.89066157036751,38 -80.65342710117,37.89085476411439,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R11</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65357833686737,37.89075272687318,48 -80.65368327357189,37.89075146234714,48 -80.65368198540271,37.89066796476796,48 -80.65358002198208,37.89066745161294,48 -80.65357833686737,37.89075272687318,48 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R12</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65368797981273,37.89076898561039,44 -80.65378323335501,37.89076868427773,44 -80.65378221836234,37.89066174260812,44 -80.65368821713612,37.89066185564749,44 -80.65368797981273,37.89076898561039,44 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R13</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65378793605035,37.89074742599681,30 -80.65389183982208,37.89074307989539,30 -80.65389106791244,37.89066650400488,30 -80.65378643957672,37.89066709524219,30 -80.65378793605035,37.89074742599681,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R14</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65389579324476,37.89081390904356,41 -80.65403398673477,37.89081415241528,41 -80.65403426928346,37.89066597320582,41 -80.65389460779791,37.89066590605154,41 -80.65389579324476,37.89081390904356,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R155</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65372144319626,37.89081022118467,46 -80.6537207859644,37.89095381928706,46 -80.65378450532563,37.89095460817958,46 -80.65378598781939,37.89081067048021,46 -80.65372144319626,37.89081022118467,46 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R15</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65379072191698,37.89081783578139,35 -80.65379127410284,37.89086284376462,35 -80.65383043548773,37.89086396179584,35 -80.65382990157077,37.8909165416611,35 -80.65404642839827,37.89091758234887,35 -80.65404428620421,37.89081805152188,35 -80.65379072191698,37.89081783578139,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R16</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<LookAt>
+				<longitude>-80.65388765530176</longitude>
+				<latitude>37.891013994659</latitude>
+				<altitude>0</altitude>
+				<heading>0.4943908815379597</heading>
+				<tilt>26.36588605254776</tilt>
+				<range>482.9534644377999</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65382465508242,37.89091967660485,42 -80.65382485597905,37.89100179289055,42 -80.65403014023951,37.89100059761097,42 -80.6540330666547,37.89092034618965,42 -80.65382465508242,37.89091967660485,42 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R17</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65380896118128,37.89100494899212,47 -80.65380840920852,37.89108154476357,47 -80.65403089389517,37.89108152694561,47 -80.65403017881134,37.8910048890761,47 -80.65380896118128,37.89100494899212,47 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R18</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65388771090124,37.89108440922527,50.00000000000001 -80.65388875513224,37.89116054789522,50.00000000000001 -80.65403026702985,37.89115841002078,50.00000000000001 -80.65402669783984,37.89108435240139,50.00000000000001 -80.65388771090124,37.89108440922527,50.00000000000001 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R19</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65388175498892,37.8911597801436,39.99999999999999 -80.65388257802759,37.89114624393016,39.99999999999999 -80.65385837629407,37.89114684503477,39.99999999999999 -80.65385774759736,37.89129209160278,39.99999999999999 -80.65401324417542,37.89129371199862,39.99999999999999 -80.65403195207296,37.89127813513017,39.99999999999999 -80.65402908369384,37.89116273277474,39.99999999999999 -80.65388175498892,37.8911597801436,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R20</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65385380779115,37.89120046639362,47 -80.65379136782629,37.89120052036303,47 -80.65378951536619,37.8912847085172,47 -80.6538537754335,37.89128465414914,47 -80.65385380779115,37.89120046639362,47 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R21</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65378911172748,37.89115832968109,41 -80.6536454215599,37.89115948217885,41 -80.65361428949714,37.8911844912141,41 -80.65361405788416,37.8912650142865,41 -80.65365081833872,37.89129319178397,41 -80.65378921708418,37.89129296038872,41 -80.65378911172748,37.89115832968109,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R22</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65355042189562,37.89140580422162,30 -80.65365900255472,37.89150493051098,30 -80.6537035122104,37.89150876070148,30 -80.65370234107937,37.89136196792573,30 -80.65364900036207,37.89135289595315,30 -80.65355042189562,37.89140580422162,30 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R23</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65370694727198,37.89149144594487,39 -80.65381864500779,37.89148735683055,39 -80.65381716735509,37.89136330854875,39 -80.65370619984628,37.89136412935469,39 -80.65370694727198,37.89149144594487,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R24</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6538233419641,37.89151383547041,31 -80.654024553121,37.89151408030879,31 -80.65401743566585,37.89136557562806,31 -80.65382397908328,37.89136626424227,31 -80.6538233419641,37.89151383547041,31 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R25</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6537534331335,37.89155883370623,39.99999999999999 -80.65375451735788,37.89162090651615,39.99999999999999 -80.65401877384029,37.89161878191258,39.99999999999999 -80.6540214647883,37.89152063913982,39.99999999999999 -80.65387118286387,37.89152032230012,39.99999999999999 -80.65386742887748,37.89154677679281,39.99999999999999 -80.65385437705815,37.89155703160935,39.99999999999999 -80.6537534331335,37.89155883370623,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R26</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65377955634267,37.89162453586918,44 -80.65377990466841,37.89174418308848,44 -80.65401535471356,37.89174269896009,44 -80.65401508155102,37.89162461962255,44 -80.65377955634267,37.89162453586918,44 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>R27</name>
+			<description><![CDATA[<Stories></Stories>
+<Class></Class>
+<Type>Generic Buildings</Type>
+<Note>Ward Name </Note>
+<Serial></Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65363049754309,37.89164730073797,39 -80.65363090375742,37.89172660082387,39 -80.65377274361771,37.89172842822377,39 -80.653773123107,37.89164747589151,39 -80.65363049754309,37.89164730073797,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
